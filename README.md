@@ -3,13 +3,14 @@
     <title>login-page</title>
     <style type="text/css">
       body{
-        background-color: darkwhite;
+        background-color: white;
       }
       form{
         height: 35pc;
         width: 45pc;
         background-color: darkblue;
-        
+        margin-left: 10pc;
+        }
     </style>
   </head>
   <body>
