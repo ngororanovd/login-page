@@ -1,18 +1,5 @@
 <html>
-  <head>
-    <title>login-page</title>
-    <style type="text/css">
-      body{
-        background-color: white;
-      }
-      form{
-        height: 35pc;
-        width: 45pc;
-        background-color: darkblue;
-        margin-left: 10pc;
-        }
-    </style>
-  </head>
+  
   <body>
     <form action="" method="POST">
       <h2>Log into the form bellow</h2>
